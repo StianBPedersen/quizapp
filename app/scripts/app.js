@@ -1,0 +1,1 @@
+angular.module('quizApp', ['quizApp.controllers','quizApp.directives', 'quizApp.filters']);
